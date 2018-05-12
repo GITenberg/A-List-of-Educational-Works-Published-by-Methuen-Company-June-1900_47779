@@ -1,4 +1,8 @@
 _repo: A-List-of-Educational-Works-Published-by-Methuen-Company-June-1900_47779
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47779-h/images/cover.jpg
 creator:
   author:
     agent_name: Methuen & Co.
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '6250'
     url: http://www.gutenberg.org/2009/agents/6250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47779#A-List-of-Educational-Works-Published-by-Methuen-Company-June-1900
 gutenberg_issued: '2014-12-25'
 gutenberg_type: Text
 identifiers:
